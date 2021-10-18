@@ -1,4 +1,4 @@
-![Header](https://i.imgur.com/0P3GICq.png)
+![Header](https://i.imgur.com/InS4dn0.png)
 <h1 align="center">Skwll 😎</h1>
 <p align="center">Python, NodeJS and C# Developer</p>
 <a href="https://github.com/Skwll">
@@ -17,7 +17,7 @@
 </p>
 <p align="center">Or Here: <a href="https://uwu.lol">uwu.lol</a></p>
 
-![Footer](https://i.imgur.com/vbc9aNO.png)
+![Footer](https://i.imgur.com/ddjIa8X.png)
 
 <!--
 **Skwll/Skwll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

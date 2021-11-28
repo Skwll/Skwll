@@ -13,9 +13,8 @@
 
 <p align="center">Contact me here:</p>
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/765836590622703647.png" />
+  <a href="https://uwu.lol">uwu.lol</a>
 </p>
-<p align="center">Or Here: <a href="https://uwu.lol">uwu.lol</a></p>
 
 ![Footer](https://i.imgur.com/ddjIa8X.png)
 

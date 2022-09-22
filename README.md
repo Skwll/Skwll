@@ -1,6 +1,6 @@
 ![Header](https://i.imgur.com/InS4dn0.png)
 <h1 align="center">Skwll 😎</h1>
-<p align="center">Python, NodeJS and C# Developer</p>
+<p align="center">Python, NodeJS and GSC Developer</p>
 <a href="https://github.com/Skwll">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Skwll" alt="Profile Views">
